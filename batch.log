@@ -1,0 +1,279 @@
+Batch Start!
+Input File: /target/simple-batch-1.0.jar/input.csv, Output File: /target/simple-batch-1.0.jar/output.csv, Target Domain: example.com
+エラーが発生しました: /target/simple-batch-1.0.jar/input.csv
+java.nio.file.NoSuchFileException: /target/simple-batch-1.0.jar/input.csv
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:156)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2839)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2871)
+	at com.example.SimpleCsvBatch.main(SimpleCsvBatch.java:30)
+Batch Start!
+Input File: /target/simple-batch-1.0.jar/input.csv, Output File: /target/simple-batch-1.0.jar/output.csv, Target Domain: example.com
+エラーが発生しました: /target/simple-batch-1.0.jar/input.csv
+java.nio.file.NoSuchFileException: /target/simple-batch-1.0.jar/input.csv
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:156)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2839)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2871)
+	at com.example.SimpleCsvBatch.main(SimpleCsvBatch.java:30)
+Batch Start!
+Input File: /target/simple-batch-1.0.jar/input.csv, Output File: /target/simple-batch-1.0.jar/output.csv, Target Domain: example.com
+エラーが発生しました: /target/simple-batch-1.0.jar/input.csv
+java.nio.file.NoSuchFileException: /target/simple-batch-1.0.jar/input.csv
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:156)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2839)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2871)
+	at com.example.SimpleCsvBatch.main(SimpleCsvBatch.java:30)
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
+Batch Start!
+Input File: /home/n-matsufuji/batch-learning/input.csv, Output File: /home/n-matsufuji/batch-learning/output.csv, Target Domain: example.com
+--------------------
+Read: 5 lines
+Write: 3 lines
+Batch End!
